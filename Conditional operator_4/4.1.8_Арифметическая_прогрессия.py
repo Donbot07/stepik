@@ -1,5 +1,8 @@
-age = int(input())
-if age >= 18:
-    print('Доступ разрешен')
+a = int(input())
+b = int(input())
+c = int(input())
+
+if ( b - a) + b == c:
+    print('Yes')
 else:
-    print('Доступ запрещён')
+    print('No')
