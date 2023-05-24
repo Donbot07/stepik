@@ -3,4 +3,4 @@ b = int(input())
 if a < b:
     print(a)
 else:
-    print(b)-12
+    print(b)
