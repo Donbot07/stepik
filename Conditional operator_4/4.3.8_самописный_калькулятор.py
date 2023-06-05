@@ -21,7 +21,7 @@ else:
 #     print(a + b)
 # elif s == '-':
 #     print(a - b)
-# elif s == '*':
+# # elif s == '*':
 #     print(a * b)
 # elif s == '/':
 #     if b == 0:
