@@ -1,0 +1,6 @@
+a1 = float(input())
+a2 = float(input())
+a3 = float(input())
+a4 = float(input())
+legh = abs(a1 - a3) + abs(a2 - a4)
+print(int(legh))
