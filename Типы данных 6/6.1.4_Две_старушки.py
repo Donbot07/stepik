@@ -1,0 +1,5 @@
+s = float(input())
+a = float(input())
+b = float(input())
+t = s / (a + b)
+print(t)
